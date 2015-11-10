@@ -1,5 +1,5 @@
 
-Código de conduta traduzido e baseado em: https://github.com/AndroidDevBR/Codigo-De-Conduta, https://github.com/RubyonRailsBrasil/Main/blob/master/Publicação%20de%20Vagas.md
+Código de conduta baseado em: https://github.com/AndroidDevBR/Codigo-De-Conduta, https://github.com/RubyonRailsBrasil/Main/blob/master/Publicação%20de%20Vagas.md
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
@@ -14,7 +14,7 @@ O **Java Brasil** deve ser um lugar seguro e convidativo para pessoas independen
 - Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
 - Raça
 - Idade
-- Religião
+- Religião ou a falta dela
 
 Como membro deste grupo, você concorda que:
 
@@ -55,6 +55,10 @@ Este grupo é voltado para profissionais e entusiastas que trabalhem com Java. I
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Java, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
+
+Não faça flood no grupo, evite publicar a mesma coisa diversas vezes; evite fazer anúncios repetitivos. O não comprimento dessas regras é passível de remoção da publicação sem aviso prévio.
+
+Evite usar a função "Pergunta" do facebook para abrir discussões, utilize somente quando for fazer enquetes. 
 
 # Publicação de Vagas
 
